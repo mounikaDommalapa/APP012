@@ -6,7 +6,7 @@ public class MainThreadClass {
 	{
 		SubThreadClass s= new SubThreadClass();
 		s.start();
-		s.setName("mounika");
+		s.setName("mounikadommalapati");
 		int i=0;
 		
 		for(i=0;i<=10;i++)

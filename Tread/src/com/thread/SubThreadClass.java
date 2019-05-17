@@ -10,7 +10,7 @@ public class SubThreadClass extends Thread
 	   final int j=10;
 	   for(i=0;i<10;i++)
 	   {
-		   System.out.println(Thread.currentThread()+" -----------"+i);
+		   System.out.println(Thread.currentThread()+" ---------=======--"+i);
 	   }
 		
 	
