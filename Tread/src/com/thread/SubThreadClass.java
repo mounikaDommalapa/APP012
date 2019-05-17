@@ -11,7 +11,7 @@ public class SubThreadClass extends Thread
 	   for(i=0;i<10;i++)
 	   {
 		   System.out.println(Thread.currentThread()+" ---------=======--"+i);
-		   System.out.println("hi to git hub");
+		   System.out.println("hi to git hub 123");
 	   }
 		
 	
